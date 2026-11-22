@@ -134,6 +134,105 @@ dependencies = [
 ]
 
 [[package]]
+name = "day02"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day03"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day04"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day05"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day06"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day07"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day08"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day09"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day10"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day11"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
+name = "day12"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "aoc_util",
+ "log",
+]
+
+[[package]]
 name = "env_filter"
 version = "2.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
