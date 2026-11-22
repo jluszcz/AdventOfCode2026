@@ -1,0 +1,7 @@
+**/*.rs.bk
+**/mutants.out*/
+*.pdb
+.idea/
+debug
+input/
+target

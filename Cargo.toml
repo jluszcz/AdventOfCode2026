@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "day01"
+]
+
+resolver = "2"
+
+[workspace.dependencies]
+anyhow = "1.*"
+aoc_util = { git = "https://github.com/jluszcz/AdventOfCode-rs" }
+log = "*"
